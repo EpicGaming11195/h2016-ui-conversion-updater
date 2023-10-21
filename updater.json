@@ -1,5 +1,5 @@
 {
-    "version": "1.3.2",
-    "changelog": "Removed the dot reticle shown when you're holding a gun but not aiming it", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.3.2/h2016.ui.conversion.zip"
+    "version": "1.3.3",
+    "changelog": "Moved the illegal action icon to the corner of the interaction circle", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.3.3/h2016.ui.conversion.zip"
 }
