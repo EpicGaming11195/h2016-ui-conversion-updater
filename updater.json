@@ -1,5 +1,5 @@
 {
-    "version": "1.3.3",
-    "changelog": "Moved the illegal action icon to the corner of the interaction circle", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.3.3/h2016.ui.conversion.zip"
+    "version": "1.3.4",
+    "changelog": "Changed the pause menu background to white when using the GOTY color theme, and added an option to change it back to dark", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.3.4/h2016.ui.conversion.zip"
 }
