@@ -1,5 +1,5 @@
 {
-    "version": "1.4.4",
-    "changelog": "Made the dialog boxes have white text and dark backgrounds again because the swapped colors didn't work properly in some cases, and added an option to change them back", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.4.4/h2016.ui.conversion.zip"
+    "version": "1.4.5",
+    "changelog": "Changed some of the config options' images to better depict what they actually change", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.4.5/h2016.ui.conversion.zip"
 }
