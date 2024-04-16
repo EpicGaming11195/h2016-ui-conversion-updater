@@ -1,5 +1,5 @@
 {
-    "version": "1.4.5",
-    "changelog": "Changed some of the config options' images to better depict what they actually change", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v1.4.5/h2016.ui.conversion.zip"
+    "version": "2.0.0",
+    "changelog": "Completely overhauled both menu and HUD themes", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.0.0/h2016.ui.conversion.zip"
 }
