@@ -1,5 +1,5 @@
 {
-    "version": "2.0.1",
-    "changelog": "Added 2 options that change the unconscious witness banner's text on the minimap: one that makes it take up 2 lines like in H2016 GOTY, and one that makes it say \"Compromised\" like in the original H2016.", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.0.1/h2016.ui.conversion.zip"
+    "version": "2.0.2",
+    "changelog": "Resized the text and icons of menu tabs to match how they were in H2016", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.0.2/h2016.ui.conversion.zip"
 }
