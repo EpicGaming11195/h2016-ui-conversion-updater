@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
-    "changelog": "Made various improvements to both themes, and made the mod always load after The Great Big Localisation Revamp", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.1.0/h2016.ui.conversion.zip"
+    "version": "2.1.1",
+    "changelog": "Made the inventory background in the GOTY UI theme stay white when used together with menu themes other than the GOTY one", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.1.1/h2016.ui.conversion.zip"
 }
