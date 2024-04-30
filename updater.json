@@ -1,5 +1,5 @@
 {
-    "version": "2.2.0",
-    "changelog": "Added highlight animations to some things, re-did tile outlines but the proper way this time, added barcodes to some menu tiles, added a line at the bottom of menus, and improved some other things all in the GOTY theme, updated the map legend and map level selector in both themes, ported over some Heritage UI updates, added some more localization options other than the HUI ones (thanks to musicalmushr00m for those), added 2 new title screen logos, and rewrote some things in the manifest", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.2.0/h2016.ui.conversion.zip"
+    "version": "2.3.0",
+    "changelog": "Copied version 2.2's changes to the old 2016 theme, improved the difficulty tiles, changed some icons, made logo size a separate option from the actual logo options, added some more localization options, and removed the old Heritage menu theme", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.3.0/h2016.ui.conversion.zip"
 }
