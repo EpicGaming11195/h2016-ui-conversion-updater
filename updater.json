@@ -1,5 +1,5 @@
 {
-    "version": "2.3.0",
-    "changelog": "Copied version 2.2's changes to the old 2016 theme, improved the difficulty tiles, changed some icons, made logo size a separate option from the actual logo options, added some more localization options, and removed the old Heritage menu theme", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.3.0/h2016.ui.conversion.zip"
+    "version": "2.3.1",
+    "changelog": "Added back the old Heritage UI Red menu theme. I only removed it because I thought nobody used it, but it has come to my attention that that is not true", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.3.1/h2016.ui.conversion.zip"
 }
