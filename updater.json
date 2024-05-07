@@ -1,5 +1,5 @@
 {
-    "version": "2.3.4",
-    "changelog": "- Both themes: Fixed the colors of the text and icons on objective tiles", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.3.4/h2016.ui.conversion.zip"
+    "version": "2.3.5",
+    "changelog": "- Both themes: Fixed some instances of the loading indicator not being changed\n- Both themes: Fixed page switch buttons on the challenges page\n- Both themes: Added a bar to the bottom of objective tiles with large images, to be consistent with the ones that have small images\n- Both themes: Changed objective tiles on the loading screen to match the ones in menus\n- Both themes: Made the destination name on the 2016-style destination tiles get cut off at the proper place when deselected\n- Old 2016 theme: Made the backgrounds of subcategory tabs fully opaque", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.3.5/h2016.ui.conversion.zip"
 }
