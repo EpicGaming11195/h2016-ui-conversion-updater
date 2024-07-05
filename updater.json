@@ -1,5 +1,5 @@
 {
-    "version": "2.4.1",
-    "changelog": "- GOTY theme: Slightly changed the line under the menu tabs to be more accurate to H2016 GOTY\n- GOTY theme: Recolored Freelancer mission end screen text from white to dark gray\n- Both themes: Made some minor improvements to button tiles (e.g. Play button)\n- Both themes: Repositioned, resized the background, and (mostly) removed the drop shadow of subtitles to match H2016\n- Both themes: Added outlines to the buttons below dialog boxes\n- General: Added an option to scale and reposition objective icons to actually be how they were in H2016\n- General: Changed Any Method, Any Weapon, and Any Disguise kill condition thumbnails to the H2016 ones\n- General: Corrected a few instances of \"A Opportunity\" to \"An Opportunity\" in the Opportunities localization option", 
-    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.4.1/h2016.ui.conversion.zip"
+    "version": "2.4.2",
+    "changelog": "- General: Made audio no longer break when the menu music option is turned on\n- General: Added an option to stop the default intro sound from playing over intros added by the mod\n- General: Changed full JSON files being replaced by the mod to JSON patches\n- General: Slightly changed wording of some things in the manifest to be more consistent", 
+    "url": "https://github.com/EpicGaming11195/h2016-ui-conversion/releases/download/v2.4.2/h2016.ui.conversion.zip"
 }
